@@ -1,0 +1,8 @@
+S 15 com.nokia.maemo H 40 1723385cbb45ffd26fa74d665497d848d96105d4 R 73 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/fields/numeric.py
+S 15 com.nokia.maemo H 40 36b9cc027a509945dc6a51f3226b1d6bbf72aff6 R 70 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/fields/text.py
+S 15 com.nokia.maemo H 40 0785864280f3333c974ffaba8d96197483f89775 R 73 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/fields/complex.py
+S 15 com.nokia.maemo H 40 4c7b4721e2367884a7ac1c5d11ecb6274555ce83 R 76 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/test/test_complex.py
+S 15 com.nokia.maemo H 40 f4db98c1c3c07488a81b01ec2438a0b4dd09adac R 76 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/test/test_numeric.py
+S 15 com.nokia.maemo H 40 5225c07c56918b868c771a4006177ee2c6d70ec4 R 76 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/test/test_strings.py
+S 15 com.nokia.maemo H 40 0fb3e148676fee474e301fd0144b17d29f581d4f R 65 usr/lib/python2.6/dist-packages/sunshine/lqsoft/cstruct/common.py
+S 15 com.nokia.maemo H 40 e0f3844c1022fbebb36e97acc786f645d0a8c827 R 36 usr/lib/telepathy/telepathy-sunshine
