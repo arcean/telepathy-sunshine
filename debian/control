@@ -2,8 +2,8 @@ Source: telepathy-sunshine
 Section: net
 Priority: optional
 XS-Python-Version: 2.6
-Maintainer: Debian Telepathy maintainers <pkg-telepathy-maintainers@lists.alioth.debian.org>
-Uploaders: Krzysztof Klinikowski <kkszysiu@gmail.com>, Sjoerd Simons <sjoerd@debian.org>, Jonny Lamb <jonny@debian.org>
+Maintainer: Tomasz Pieniążek <t.pieniazek@gazeta.pl>
+Uploaders: Tomasz Pieniążek <t.pieniazek@gazeta.pl>
 Build-Depends: debhelper (>= 7),
                  cdbs,
                  python-dbus,
@@ -13,8 +13,6 @@ Build-Depends: debhelper (>= 7),
                  python-twisted (>= 0.8.0),
                  python
 Standards-Version: 3.9.2
-Vcs-Git: git://git.debian.org/pkg-telepathy/telepathy-sunshine.git
-Vcs-Browser: http://git.debian.org/?p=pkg-telepathy/telepathy-sunshine.git
 Homepage: http://telepathy.freedesktop.org/wiki/
 
 Package: telepathy-sunshine
