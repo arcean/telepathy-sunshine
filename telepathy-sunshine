@@ -8,9 +8,6 @@ import sys
 import logging
 from twisted.python import log
 
-from twisted.internet import gtk2reactor
-gtk2reactor.install()
-
 from twisted.internet import reactor, protocol
 from twisted.internet.task import LoopingCall
 
